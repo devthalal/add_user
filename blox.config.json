@@ -1,0 +1,1 @@
+{"name":"add_user","type":"function","source":{"https":"https://github.com/devthalal/add_user","ssh":"git@github.com:devthalal/add_user.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i","standAloneBlox":false}
